@@ -9,3 +9,6 @@ https://zenodo.org/records/14901409   中的data_for_figures.tar.gz
 
 #参考代码
 https://zenodo.org/records/14901409   中的generate_main_figures.R
+
+#注
+原始数据太大没法上传到GitHub上，需自行去zenodo中下载
